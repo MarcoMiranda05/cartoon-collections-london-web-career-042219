@@ -1,5 +1,5 @@
 def roll_call_dwarves
-  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
+  dwarves = []
   dwarves.each do |dwarf|
     puts "#{dwarf}"
   end
